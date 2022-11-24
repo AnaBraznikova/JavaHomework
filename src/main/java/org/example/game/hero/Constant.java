@@ -6,3 +6,4 @@ public class Constant {
     public static final boolean ELF_CHARISMA = true;
     public static final int ELF_MAGIC = 100;
 }
+
